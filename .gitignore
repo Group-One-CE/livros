@@ -1,0 +1,8 @@
+# Ignora tudo
+*
+
+# Permite todos os arquivos PDF
+!*.pdf
+
+# Permite arquivos PDF em subdiretórios
+!*/
